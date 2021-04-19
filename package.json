@@ -1,0 +1,12 @@
+{
+  "name": "zedzee-smp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^2.1.1"
+  }
+}
